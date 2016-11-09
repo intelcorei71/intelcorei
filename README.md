@@ -1,0 +1,2 @@
+# intelcorei
+GOOOGle
